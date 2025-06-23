@@ -14,6 +14,7 @@
   <code><img height="40" alt="linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
   <code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   <code><img height="40" alt="pytorch" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+  <code><img height="40" alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
   <code><img height="40" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
   <code><img height="40" alt="django" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
   <code><img height="40" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
