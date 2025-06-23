@@ -20,22 +20,9 @@
 
 ---
 
-## 🖥️ &nbsp;Featured Projects
+## 🖥 &nbsp;Past work
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/metriiics/project-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=project-1&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Project 1" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/metriiics/project-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=project-2&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Project 2" />
-      </a>
-    </td>
-  </tr>
-</table>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/Pwnagetty) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=love-lock-card&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/CyrisXD/love-lock-card)
 
 
 ---
@@ -46,14 +33,4 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=metriiics&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metriiics&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=metriiics&theme=darcula&hide_border=true&background=FFFFFF00" />
-</p>
-
----
-
-## ☕️ &nbsp;Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/metriiics">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="50" width="210" />
-  </a>
 </p>
