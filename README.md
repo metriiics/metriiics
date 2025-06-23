@@ -13,11 +13,10 @@
 <p align="center" style="color:#000000;">
   <code><img height="40" alt="linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
   <code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+  <code><img height="40" alt="pytorch" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png"></code>
   <code><img height="40" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
   <code><img height="40" alt="django" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
   <code><img height="40" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-  <code><img height="40" alt="pytorch" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/SVG/pytorch.svg"></code>
-  <code><img height="40" alt="scikit-learn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/SVG/scikit-learn.svg"></code>
 </p>
 
 ---
