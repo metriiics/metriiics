@@ -30,7 +30,7 @@
 ## 📊 &nbsp;<span style="color:#FFFFFF;">GitHub Stats</span>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=metriiics&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1e3a8a&text_color=1e3a8a&icon_color=1e3a8a" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metriiics&layout=compact&hide_border=true&theme=default&bg_color=FFFFFF&title_color=1e3a8a&text_color=1e3a8a&icon_color=1e3a8a&langs_count=6" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=metriiics&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=FFFFFF&title_color=1e3a8a&text_color=1e3a8a&icon_color=00000000" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metriiics&layout=compact&hide_border=true&theme=darcula&bg_color=FFFFFF&title_color=1e3a8a&text_color=1e3a8a&icon_color=00000000&langs_count=6" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=metriiics&theme=default&hide_border=true&background=f5f0e6" />
 </p>
