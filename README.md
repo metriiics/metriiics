@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" style="color:#000000;">
-  Frontend & Fullstack Developer | JavaScript | TypeScript | React | Node.js
+  "I'm a Python dev to the core: crafting Django backends, spinning APIs like a Django-ninja, and making hardware dance with Python. In my free time, I dive into ML because neural networks are pure fun. Code is my religion.
 </p>
 
 ---
