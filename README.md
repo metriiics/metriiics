@@ -2,7 +2,7 @@
   Hello, I'm metriiics <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" height="30" />
 </h1>
 
-<p align="center" style="color:#bfa68f;">
+<p align="center" style="color:#1e3a8a;">
   Frontend & Fullstack Developer | JavaScript | TypeScript | React | Node.js
 </p>
 
@@ -22,15 +22,15 @@
 
 ## 🖥 &nbsp;<span style="color:#1e3a8a;">Top Projects</span>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=1e293b&title_color=bfa68f&text_color=d9cbb6&icon_color=8b6f47)](https://github.com/metriiics/CRMProzdorovie) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=love-lock-card&bg_color=1e293b&title_color=bfa68f&text_color=d9cbb6&icon_color=8b6f47)](https://github.com/metriiics/love-lock-card)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=f5f0e6&title_color=1e3a8a&text_color=1e3a8a&icon_color=1e3a8a)](https://github.com/metriiics/CRMProzdorovie) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=love-lock-card&bg_color=f5f0e6&title_color=1e3a8a&text_color=1e3a8a&icon_color=1e3a8a)](https://github.com/metriiics/love-lock-card)
 
 ---
 
 ## 📊 &nbsp;<span style="color:#1e3a8a;">GitHub Stats</span>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=metriiics&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=1e293b&title_color=bfa68f&text_color=d9cbb6&icon_color=8b6f47" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metriiics&layout=compact&hide_border=true&theme=dark&bg_color=1e293b&title_color=bfa68f&text_color=d9cbb6&icon_color=8b6f47&langs_count=6" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=metriiics&theme=dark&hide_border=true&background=1e293b" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=metriiics&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=f5f0e6&title_color=1e3a8a&text_color=1e3a8a&icon_color=1e3a8a" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metriiics&layout=compact&hide_border=true&theme=default&bg_color=f5f0e6&title_color=1e3a8a&text_color=1e3a8a&icon_color=1e3a8a&langs_count=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=metriiics&theme=default&hide_border=true&background=f5f0e6" />
 </p>
