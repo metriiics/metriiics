@@ -23,7 +23,7 @@
 ## 🖥 &nbsp;<span style="color:#FFFFFF;">Top Projects</span>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=f5f0e6&title_color=FFFFFF&text_color=1e3a8a&icon_color=1e3a8a)](https://github.com/metriiics/CRMProzdorovie) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=MyWebSite&bg_color=f5f0e6&title_color=FFFFFF&text_color=1e3a8a&icon_color=1e3a8a)](https://github.com/metriiics/MyWebSite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=MyWebSite&bg_color=f5f0e6&title_color=FFFFFF&text_color=1e3a8a&icon_color=1e3a8a)](https://github.com/metriiics/DatingProject)
 
 ---
 
