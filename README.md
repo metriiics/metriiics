@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello, I'm metriiics <span class="wave">👋</span>
+  Hello, I'm metriiics <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" height="30" />
 </h1>
 
 <p align="center">
@@ -22,14 +22,20 @@
 
 ## 🖥️ &nbsp;Featured Projects
 
-<p align="center" style="display: flex; justify-content: center; gap: 1rem; flex-wrap: nowrap;">
-  <a href="https://github.com/metriiics/project-1" style="flex-shrink: 0;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=project-1&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Project 1" />
-  </a>
-  <a href="https://github.com/metriiics/project-2" style="flex-shrink: 0;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=project-2&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Project 2" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/metriiics/project-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=project-1&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Project 1" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/metriiics/project-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=project-2&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Project 2" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
@@ -51,25 +57,3 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="50" width="210" />
   </a>
 </p>
-
----
-
-<!-- Wave animation CSS -->
-<style>
-  .wave {
-    display: inline-block;
-    animation-name: wave-animation;
-    animation-duration: 2.5s;
-    animation-iteration-count: infinite;
-    transform-origin: 70% 70%;
-  }
-  @keyframes wave-animation {
-    0% { transform: rotate(0deg); }
-    15% { transform: rotate(15deg); }
-    30% { transform: rotate(-10deg); }
-    45% { transform: rotate(15deg); }
-    60% { transform: rotate(-10deg); }
-    75% { transform: rotate(15deg); }
-    100% { transform: rotate(0deg); }
-  }
-</style>
