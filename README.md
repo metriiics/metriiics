@@ -16,7 +16,8 @@
   <code><img height="40" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
   <code><img height="40" alt="django" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
   <code><img height="40" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-
+  <code><img height="40" alt="pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></code>
+  <code><img height="40" alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></code>
 </p>
 
 ---
