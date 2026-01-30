@@ -16,12 +16,16 @@
   <code><img height="40" alt="pytorch" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
   <code><img height="40" alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
   <code><img height="40" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-  <code><img height="40" alt="spark" src="https://raw.githubusercontent.com/foorilla/the-icons-repo/main/icons/apache-spark.svg"></code>
-  <code><img height="40" alt="airflow" src="https://raw.githubusercontent.com/foorilla/the-icons-repo/main/icons/apache-airflow.svg"></code>
-  <code><img height="40" alt="hadoop" src="https://raw.githubusercontent.com/foorilla/the-icons-repo/main/icons/apache-hadoop.svg"></code>
-  <code><img height="40" alt="hive" src="https://raw.githubusercontent.com/github/explore/80688e3133ddc78e41e3bbe5456389bd05e13959/topics/hive/hive.png"></code>
+  
+  <!-- Рабочие иконки Big Data -->
+  <code><img height="40" alt="spark" src="https://spark.apache.org/images/spark-logo.png"></code>
+  <code><img height="40" alt="airflow" src="https://airflow.apache.org/docs/apache-airflow/stable/_images/logo.png"></code>
+  <code><img height="40" alt="hadoop" src="https://hadoop.apache.org/images/hadoop-logo.png"></code>
+  <code><img height="40" alt="hive" src="https://hive.apache.org/images/hive_logo_lowres.png"></code>
+  
   <code><img height="40" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 </p>
+
 
 ---
 
