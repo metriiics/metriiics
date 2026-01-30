@@ -16,12 +16,13 @@
   <code><img height="40" alt="pytorch" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
   <code><img height="40" alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
   <code><img height="40" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-  <code><img height="40" alt="django" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
   <code><img height="40" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
   <code><img height="40" alt="apache-spark" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"></code>
   <code><img height="40" alt="apache-airflow" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png"></code>
   <code><img height="40" alt="hadoop" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg"></code>
   <code><img height="40" alt="hive" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg"></code>
+  <code><img height="40" alt="fastapi" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></code>
+  <code><img height="40" alt="postgresql" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
 </p>
 
 ---
