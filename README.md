@@ -10,17 +10,19 @@
 
 <h2 align="left" style="color:#8B4513;">&nbsp;My Stack</h2>
 
-<p align="center">
+<p align="center" style="color:#000000;">
   <code><img height="40" alt="linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
   <code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-  <code><img height="40" alt="pytorch" src="https://raw.githubusercontent.com/foorilla/the-icons-repo/main/icons/pytorch.svg"></code>
-  <code><img height="40" alt="scikit-learn" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png"></code>
+  <code><img height="40" alt="pytorch" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+  <code><img height="40" alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
   <code><img height="40" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-  <code><img height="40" alt="spark" src="https://raw.githubusercontent.com/github/explore/main/topics/apache-spark/apache-spark.png"></code>
-  <code><img height="40" alt="airflow" src="https://raw.githubusercontent.com/github/explore/main/topics/airflow/airflow.png"></code>
+  <code><img height="40" alt="django" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
   <code><img height="40" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+  <code><img height="40" alt="apache-spark" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"></code>
+  <code><img height="40" alt="apache-airflow" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png"></code>
+  <code><img height="40" alt="hadoop" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg"></code>
+  <code><img height="40" alt="hive" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Apache_Hive_logo.svg"></code>
 </p>
-
 
 ---
 
