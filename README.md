@@ -8,7 +8,7 @@
 
 ---
 
-<h2 align="left" style="color:#8B4513;">&nbsp;My Stack</h2>
+<h2 align="left" style="color:#8B4513;">My Stack</h2>
 
 <p align="center" style="color:#000000;">
   <code><img height="40" alt="linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
