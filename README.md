@@ -3,22 +3,26 @@
 </h1>
 
 <p align="center" style="color:#000000;">
-  I'm a Python dev to the core: crafting Django backends, spinning APIs like a Django-ninja, and making hardware dance with Python. In my free time, I dive into ML because neural networks are pure fun. Code is my religion.
+  I am engaged in ML engineering, building API applications. I integrate models into production pipelines, automate data science processes. I love math and challenging tasks.
 </p>
 
 ---
 
 <h2 align="left" style="color:#8B4513;">&nbsp;My Stack</h2>
 
-<p align="center" style="color:#000000;">
+<p align="center">
   <code><img height="40" alt="linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
   <code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   <code><img height="40" alt="pytorch" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
   <code><img height="40" alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
   <code><img height="40" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-  <code><img height="40" alt="django" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
+  <code><img height="40" alt="spark" src="https://raw.githubusercontent.com/github/explore/main/topics/apache-spark/apache-spark.png"></code>
+  <code><img height="40" alt="airflow" src="https://raw.githubusercontent.com/github/explore/main/topics/airflow/airflow.png"></code>
+  <code><img height="40" alt="hadoop" src="https://hadoop.apache.org/images/hadoop-logo-notext.png"></code>
+  <code><img height="40" alt="hive" src="https://raw.githubusercontent.com/github/explore/main/topics/apache-hive/apache-hive.png"></code>
   <code><img height="40" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 </p>
+
 
 ---
 
@@ -33,7 +37,7 @@
 
 ---
 
-<h2 align="left" style="color:#8B4513;">📊 &nbsp;GitHub Stats</h2>
+<h2 align="left" style="color:#8B4513;">&nbsp;GitHub Stats</h2>
 
 
 <p align="center">
