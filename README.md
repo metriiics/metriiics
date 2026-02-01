@@ -53,10 +53,10 @@
 ## Top Projects
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=FFFFFF&title_color=8B4513&text_color=333333&icon_color=8B4513&show_owner=true)](https://github.com/metriiics/CRMProzdorovie)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=djangoReactApp&bg_color=FFFFFF&title_color=8B4513&text_color=333333&icon_color=8B4513&show_owner=true)](https://github.com/metriiics/djangoReactApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=FFFFFF&title_color=8B4513&text_color=333333&icon_color=8B4513&show_owner=true)](https://github.com/metriiics/CRMProzdorovie)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=FFFFFF&title_color=8B4513&text_color=333333&icon_color=8B4513&show_owner=true)](https://github.com/metriiics/CRMProzdorovie)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=djangoReactApp&bg_color=FFFFFF&title_color=8B4513&text_color=333333&icon_color=8B4513&show_owner=true)](https://github.com/metriiics/djangoReactApp)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=FFFFFF&title_color=8B4513&text_color=333333&icon_color=8B4513&show_owner=true)](https://github.com/metriiics/CRMProzdorovie)
 
 </div>
 
@@ -70,13 +70,3 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=metriiics&theme=darcula&hide_border=true&background=FFFFFF00">
 
 <br/>
-
-<div align="center">
-  
-📫 **Contact me:** [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
-
-⭐ **Fun fact:** I love solving complex mathematical problems in my free time!
-
-</div> me:** [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
-
-</div>
