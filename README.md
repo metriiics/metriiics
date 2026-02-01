@@ -44,28 +44,10 @@
 
 [![CRM](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&size=320)](https://github.com/metriiics/CRMProzdorovie)
 [![DjangoReact](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=djangoReactApp&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&size=320)](https://github.com/metriiics/djangoReactApp)
-[![CRM2](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&size=320)](https://github.com/metriiics/CRMProzdorovie)
-
+[![Ml-Notebook](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=ML-VVSU-2025&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&size=320)](https://github.com/metriiics/ML-VVSU-2025)
 </div>
 
 <br/>
-
-## Top Projects
-
-<table align="center">
-<tr>
-<td width="33%">
-[![CRM](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&size=300)](https://github.com/metriiics/readme-stats/card)
-</td>
-<td width="33%">
-[![DjangoReact](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=djangoReactApp&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&size=300)](https://github.com/metriiics/djangoReactApp)
-</td>
-<td width="33%">
-[![Third](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=YOUR_THIRD_REPO&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&size=300)](https://github.com/metriiics/YOUR_THIRD_REPO)
-</td>
-</tr>
-</table>
-
 
 ## GitHub Stats
 
