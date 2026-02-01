@@ -46,3 +46,42 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=metriiics&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=metriiics&theme=darcula&hide_border=true&background=FFFFFF00">
 
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+# metriiics 👋
+
+**ML Engineer • API Architect • Data Pipelines**
+
+![Linux Python PyTorch](https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png) ![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png) ![PyTorch](https://pytorch.org/assets/images/pytorch-logo.png) ![scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) ![Docker](https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png) ![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png) ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
+
+</div>
+
+---
+
+## 📈 Top Projects
+
+<div align="center">
+[![CRMProzdorovie](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000)](https://github.com/metriiics/CRMProzdorovie)
+[![djangoReactApp](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=djangoReactApp&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000)](https://github.com/metriiics/djangoReactApp)
+</div>
+
+---
+
+## 🔥 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=metriiics&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metriiics&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI" width="40%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=metriiics&theme=darcula&hide_border=true&background=FFFFFF00">
+</div>
