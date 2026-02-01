@@ -52,11 +52,17 @@
 
 ## 📌 &nbsp;Featured Projects
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<!-- Попробуйте этот формат -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie)](https://github.com/metriiics/CRMProzdorovie)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=djangoReactApp)](https://github.com/metriiics/djangoReactApp)
+### 🏥 [CRMProzdorovie](https://github.com/metriiics/CRMProzdorovie)
+**Healthcare CRM System**  
+*Django • React • PostgreSQL • Docker*  
+📊 Patient management • 📈 Analytics • 🔐 Secure authentication
+
+### ⚡ [djangoReactApp](https://github.com/metriiics/djangoReactApp)  
+**Full-Stack Application**  
+*Django REST • React • JWT • PostgreSQL*  
+🚀 Real-time updates • 📱 Responsive design • 🔄 CI/CD pipeline
 
 </div>
 
