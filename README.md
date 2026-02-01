@@ -54,12 +54,20 @@
 
 <div align="center">
 
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[CRMProzdorovie](https://github.com/metriiics/CRMProzdorovie)** | Healthcare CRM system | Django, React, PostgreSQL |
+| **[djangoReactApp](https://github.com/metriiics/djangoReactApp)** | Full-stack Django + React app | Django, React, REST API |
+
+<!-- Альтернативный вариант с карточками -->
+<!--
 <a href="https://github.com/metriiics/CRMProzdorovie">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&theme=radical&bg_color=0d1117&title_color=8B4513&text_color=ffffff&border_color=8B4513" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&theme=default&show_owner=true" width="400" />
 </a>
 <a href="https://github.com/metriiics/djangoReactApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=djangoReactApp&theme=radical&bg_color=0d1117&title_color=8B4513&text_color=ffffff&border_color=8B4513" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=djangoReactApp&theme=default&show_owner=true" width="400" />
 </a>
+-->
 
 </div>
 
@@ -69,11 +77,13 @@
 
 <div align="center">
 
-![Metrics](https://github-readme-stats.vercel.app/api?username=metriiics&show_icons=true&count_private=true&hide_title=false&hide=prs&theme=radical&bg_color=0d1117&title_color=8B4513&icon_color=8B4513&border_color=8B4513&text_color=ffffff)
+<!-- Статистика с более простой темой -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=metriiics&show_icons=true&theme=default&hide_title=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metriiics&layout=compact&theme=radical&bg_color=0d1117&title_color=8B4513&text_color=ffffff&border_color=8B4513&langs_count=8&exclude_repo=Pacman-AI)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metriiics&layout=compact&theme=default&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=metriiics&theme=radical&background=0d1117&border=8B4513&stroke=8B4513&dates=ffffff&fire=8B4513&ring=8B4513)
+<!-- Альтернатива для streak stats -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=metriiics&theme=default)](https://git.io/streak-stats)
 
 </div>
 
