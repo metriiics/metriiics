@@ -56,6 +56,7 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&show_owner=true&size=350)](https://github.com/metriiics/CRMProzdorovie)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=djangoReactApp&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&show_owner=true&size=350)](https://github.com/metriiics/djangoReactApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&show_owner=true&size=350)](https://github.com/metriiics/CRMProzdorovie)
 
 </div>
 
