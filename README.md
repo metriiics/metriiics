@@ -50,7 +50,7 @@
 
 <br/>
 
-## 🏆 Top Projects
+## Top Projects
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
@@ -62,8 +62,7 @@
 
 <br/>
 
-<h2 align="left" style="color:#8B4513;">&nbsp;GitHub Stats</h2>
-
+## GitHub Stats
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=metriiics&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
