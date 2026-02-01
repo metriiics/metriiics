@@ -54,12 +54,9 @@
 
 <div align="center">
 
-  <a href="https://github.com/metriiics/CRMProzdorovie">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&theme=default&show_owner=true" width="400" />
-</a>
-<a href="https://github.com/metriiics/djangoReactApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=djangoReactApp&theme=default&show_owner=true" width="400" />
-</a>
+<!-- Попробуйте этот формат -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie)](https://github.com/metriiics/CRMProzdorovie)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=djangoReactApp)](https://github.com/metriiics/djangoReactApp)
 
 </div>
 
