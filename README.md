@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#000000;">
+<h1 align="center" style="color:#000000;margin-bottom:0;">
   Hello, I'm metriiics <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" height="30" />
 </h1>
 
