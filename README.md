@@ -62,37 +62,15 @@
 
 <br/>
 
-## 📊 &nbsp;GitHub Stats
+<h2 align="left" style="color:#8B4513;">&nbsp;GitHub Stats</h2>
 
-<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
 
-<!-- Первая строка: основная статистика и языки -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=metriiics&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=8B4513&icon_color=8B4513&text_color=333333&border_radius=10" alt="GitHub Stats" />
-
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metriiics&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=8B4513&text_color=333333&border_radius=10&langs_count=6&exclude_repo=Pacman-AI" alt="Top Languages" />
-
-</div>
-
-<!-- Вторая строка: streak статистика -->
-<div style="display: flex; justify-content: center;">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=metriiics&theme=default&hide_border=true&background=FFFFFF00&stroke=8B4513&ring=8B4513&fire=8B4513&currStreakLabel=8B4513&border_radius=10" alt="GitHub Streak" />
-
-</div>
-
-</div>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=metriiics&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=metriiics&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=metriiics&theme=darcula&hide_border=true&background=FFFFFF00">
 
 <br/>
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=metriiics&color=8B4513&style=flat-square&label=Profile+Views)
-
-</div>
-
----
 
 <div align="center">
   
