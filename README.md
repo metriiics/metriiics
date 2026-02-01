@@ -54,14 +54,7 @@
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[CRMProzdorovie](https://github.com/metriiics/CRMProzdorovie)** | Healthcare CRM system | Django, React, PostgreSQL |
-| **[djangoReactApp](https://github.com/metriiics/djangoReactApp)** | Full-stack Django + React app | Django, React, REST API |
-
-<!-- Альтернативный вариант с карточками -->
-
-<a href="https://github.com/metriiics/CRMProzdorovie">
+  <a href="https://github.com/metriiics/CRMProzdorovie">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&theme=default&show_owner=true" width="400" />
 </a>
 <a href="https://github.com/metriiics/djangoReactApp">
