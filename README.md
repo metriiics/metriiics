@@ -2,7 +2,7 @@
   Hello, I'm metriiics <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" height="30" />
 </h1>
 
-<p align="center" style="color:#000000;">
+<p align="center" style="color:#000000;margin-top:0;">
   I am engaged in ML engineering, building API applications. I integrate models into production pipelines, automate data science processes. I love math and challenging tasks.
 </p>
 
