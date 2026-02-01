@@ -1,87 +1,89 @@
-<h1 align="center" style="color:#000000;margin-bottom:0;">
-  Hello, I'm metriiics <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" height="30" />
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
+  Hello, I'm <span style="background: linear-gradient(90deg, #8B4513, #D2691E); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">metriiics</span>
 </h1>
 
-<p align="center" style="color:#000000;margin-top:0;">
-  I am engaged in ML engineering, building API applications. I integrate models into production pipelines, automate data science processes. I love math and challenging tasks.
-</p>
-
----
-
-<h2 align="left" style="color:#8B4513;">&nbsp;My Stack</h2>
-
-<p align="center" style="color:#000000;">
-  <code><img height="40" alt="linux" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
-  <code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-  <code><img height="40" alt="pytorch" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-  <code><img height="40" alt="scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
-  <code><img height="40" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-  <code><img height="40" alt="git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-  <code><img height="40" alt="apache-spark" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg"></code>
-  <code><img height="40" alt="apache-airflow" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png"></code>
-  <code><img height="40" alt="hadoop" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg"></code>
-  <code><img height="40" alt="hive" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg"></code>
-  <code><img height="40" alt="fastapi" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></code>
-  <code><img height="40" alt="postgresql" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"></code>
-</p>
-
----
-
-<h2 align="left">Top Projects</h2>
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&show_owner=true&size=350)](https://github.com/metriiics/CRMProzdorovie)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=djangoReactApp&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&show_owner=true&size=350)](https://github.com/metriiics/djangoReactApp)
-
-</div>
-
----
-
-<h2 align="left" style="color:#8B4513;">&nbsp;GitHub Stats</h2>
-
+<h3 align="center" style="color: #6B7280; font-weight: 300; margin-top: -10px;">
+  ML Engineer | API Developer | Data Pipeline Architect
+</h3>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=metriiics&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=metriiics&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=metriiics&theme=darcula&hide_border=true&background=FFFFFF00">
+  I specialize in bringing ML models to production, building scalable APIs, and automating data science workflows. Passionate about mathematics and solving complex challenges.
+</p>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
+<br/>
 
-
-
-
-
-
-
-
-
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-# metriiics 👋
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**ML Engineer • API Architect • Data Pipelines**
+### **Data & ML**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 
-![Linux Python PyTorch](https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png) ![Python](https://raw.githubusercontent.com/github/explore/main/topics/python/python.png) ![PyTorch](https://pytorch.org/assets/images/pytorch-logo.png) ![scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) ![Docker](https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png) ![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png) ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
+### **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
----
+<br/>
 
-## 📈 Top Projects
+## 📌 &nbsp;Featured Projects
 
 <div align="center">
-[![CRMProzdorovie](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000)](https://github.com/metriiics/CRMProzdorovie)
-[![djangoReactApp](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=djangoReactApp&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000)](https://github.com/metriiics/djangoReactApp)
+
+<a href="https://github.com/metriiics/CRMProzdorovie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&theme=radical&bg_color=0d1117&title_color=8B4513&text_color=ffffff&border_color=8B4513" />
+</a>
+<a href="https://github.com/metriiics/djangoReactApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=djangoReactApp&theme=radical&bg_color=0d1117&title_color=8B4513&text_color=ffffff&border_color=8B4513" />
+</a>
+
 </div>
 
----
+<br/>
 
-## 🔥 GitHub Stats
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=metriiics&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" width="47%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metriiics&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI" width="40%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=metriiics&theme=darcula&hide_border=true&background=FFFFFF00">
+
+![Metrics](https://github-readme-stats.vercel.app/api?username=metriiics&show_icons=true&count_private=true&hide_title=false&hide=prs&theme=radical&bg_color=0d1117&title_color=8B4513&icon_color=8B4513&border_color=8B4513&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metriiics&layout=compact&theme=radical&bg_color=0d1117&title_color=8B4513&text_color=ffffff&border_color=8B4513&langs_count=8&exclude_repo=Pacman-AI)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=metriiics&theme=radical&background=0d1117&border=8B4513&stroke=8B4513&dates=ffffff&fire=8B4513&ring=8B4513)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=metriiics&color=8B4513&style=flat-square)
+
 </div>
