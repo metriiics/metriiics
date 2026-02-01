@@ -73,24 +73,25 @@
 
 <br/>
 
-## 📊 &nbsp;GitHub Analytics
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<!-- Статистика с более простой темой -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=metriiics&show_icons=true&theme=default&hide_title=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metriiics&layout=compact&theme=default&langs_count=8)
-
-<!-- Альтернатива для streak stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=metriiics&theme=default)](https://git.io/streak-stats)
+<!-- Простая таблица вместо изображений -->
+| Stat | Value |
+|------|-------|
+| **Total Contributions** | [View](https://github.com/metriiics) |
+| **Public Repositories** | [View All](https://github.com/metriiics?tab=repositories) |
+| **Most Used Languages** | Python, JavaScript, SQL |
 
 </div>
 
 <br/>
 
-<div align="center">
+---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=metriiics&color=8B4513&style=flat-square)
+<div align="center">
+  
+**📫 How to reach me:** [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
 </div>
