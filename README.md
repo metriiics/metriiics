@@ -6,6 +6,7 @@
   I am engaged in ML engineering, building API applications. I integrate models into production pipelines, automate data science processes. I love math and challenging tasks.
 </p>
 
+---
 
 <h2 align="left" style="color:#8B4513;">&nbsp;My Stack</h2>
 
