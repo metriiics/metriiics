@@ -39,10 +39,12 @@
 <br/>
 
 ## Top Projects
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&show_owner=true&size=300)](https://github.com/metriiics/CRMProzdorovie)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=djangoReactApp&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&show_owner=true&size=300)](https://github.com/metriiics/djangoReactApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&show_owner=true&size=300)](https://github.com/metriiics/CRMProzdorovie)
+
+<div align="center">
+
+[![CRM](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&size=320)](https://github.com/metriiics/CRMProzdorovie)
+[![DjangoReact](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=djangoReactApp&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&size=320)](https://github.com/metriiics/djangoReactApp)
+[![CRM2](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&size=320)](https://github.com/metriiics/CRMProzdorovie)
 
 </div>
 
