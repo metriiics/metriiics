@@ -1,4 +1,10 @@
 <h1 align="center">
+  <img src="Earth.gif" width="24px"/>
+  𝐇𝐞𝐥𝐥𝐨, world!
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
+
+<h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
   Hello, I'm <span style="background: linear-gradient(90deg, #8B4513, #D2691E); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">metriiics</span>
 </h1>
@@ -35,25 +41,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-
-<br/>
-
-## Top Projects
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=CRMProzdorovie&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&show_owner=true&size=350)](https://github.com/metriiics/CRMProzdorovie)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=metriiics&repo=kanbanBoard&bg_color=FFFFFF&title_color=3572A5&text_color=000000&icon_color=000000&show_owner=true&size=350)](https://github.com/metriiics/kanbanBoard)
-
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=metriiics&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=metriiics&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=metriiics&theme=darcula&hide_border=true&background=FFFFFF00">
 
 <br/>
