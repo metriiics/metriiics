@@ -4,11 +4,6 @@
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
-  Hello, I'm <span style="background: linear-gradient(90deg, #8B4513, #D2691E); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">metriiics</span>
-</h1>
-
 <h3 align="center" style="color: #6B7280; font-weight: 300; margin-top: -10px;">
   ML Engineer | API Developer | Data Pipeline Architect
 </h3>
