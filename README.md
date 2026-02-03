@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center" style="color: #6B7280; font-weight: 300; margin-top: -10px;">
-  ML Engineer | API Developer | Data Pipeline Architect
+  ML Engineer | API Developer 
 </h3>
 
 <p align="center">
