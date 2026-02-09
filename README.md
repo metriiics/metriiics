@@ -9,7 +9,8 @@
 </h3>
 
 <p align="center">
-  I specialize in bringing ML models to production, building scalable APIs, and automating data science workflows. Passionate about mathematics and solving complex challenges.
+  Python Developer and Data Scientist with a focus on machine learning (ML Engineering), control systems, and data engineering. Proficient in asynchronous programming (asyncio, FastAPI), API integrations, and building scalable pipelines for ML models.
+In my free time, I study mathematics (linear algebra, optimization) and apply it to algorithm projects and data visualization.
 </p>
 
 <br/>
